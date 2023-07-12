@@ -14,6 +14,9 @@ ________________________________________________________________________________
 <div>
   <a href="https://github.com/silvadaniell/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silvadaniell&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/toplangs/username=silvadaniell&layout=compact&langs_count=7&theme=dark"/>
+    
+</div>
  </div>
     
 __________________________________________________________________________________________________
