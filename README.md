@@ -20,3 +20,11 @@ ________________________________________________________________________________
   <img align="center" alt="wxdaniell-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="wxdaniell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+__________________________________________________________________________________________________
+<div>
+
+### Commits:
+  
+  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
+</div>
