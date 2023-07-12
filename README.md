@@ -1,4 +1,4 @@
-![image](https://github.com/silvadaniell/silvadaniell/assets/85084842/8964441d-26bb-44d9-a07d-d439d6b62f83)
+
 
 ### Olá! eu sou Daniel Silva🙋‍♂️
 
