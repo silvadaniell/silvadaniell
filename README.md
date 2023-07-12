@@ -26,5 +26,7 @@ ________________________________________________________________________________
 
 ### Commits:
   
-  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
+  - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+
 </div>
