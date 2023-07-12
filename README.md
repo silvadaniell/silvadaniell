@@ -13,6 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silvadaniell&show_icons=true&theme=dark" />
  </div>
 __________________________________________________________________________________________________
+    
 ### Trabalho com 
 
 <div style="display: inline_block"><br>
