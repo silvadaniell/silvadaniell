@@ -3,11 +3,11 @@
 </br>
 
 
-### Olá! eu sou Daniel Silva🙋‍♂️
+### Hello! I'm Daniel Silva🙋‍♂️
 
-- 🎓 5º cursando o Perído em Ciência da Computação - UFAL
-- 🌐 Desenvolvedor Web
-- 🎲 Interesse em Ciência de dados e Aprendizagem de Máquina
+- 🎓 5th degree in Computer Science - UFAL
+- 🌐 Web developer
+- 🎲 Interested in Data Science and Machine Learning
   
 __________________________________________________________________________________________________
     
@@ -19,7 +19,7 @@ ________________________________________________________________________________
 </div>  
 __________________________________________________________________________________________________
     
-### Trabalho com 
+### I work with 
 <div style="display: inline_block"><br>
   <img align="center" alt="wxdaniell-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="wxdaniell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 
 
-#### 📫 Mais informações e contato:
+#### 📫 More information and contact:
  <a href="https://www.linkedin.com/in/daniel-silva-5235a6210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> [![Lattes](https://img.shields.io/badge/Lattes-202020?style=for-the-badge&Color=white)](http://lattes.cnpq.br/7078537540211042)
 
 ### Commits:
