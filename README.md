@@ -26,10 +26,10 @@ ________________________________________________________________________________
 </div>
 
 __________________________________________________________________________________________________
-<div>
 
 ### Commits:
-  
-  ![Snake animation](https://github.com/silvadaniell/silvadaniell/blob/output/github-contribution-grid-snake.svg)
-  
+ <div align="center">
+    <img src="https://github.com/silvadaniell/silvadaniell/blob/output/github-contribution-grid-snake.svg" alt="Image" width="800" height="200"/>
 </div>
+  
+
