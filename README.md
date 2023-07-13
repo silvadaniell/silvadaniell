@@ -30,6 +30,6 @@ ________________________________________________________________________________
 
 
 #### 📫 More information and contact:
- <a href="https://www.linkedin.com/in/daniel-silva-5235a6210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> [![Lattes](https://img.shields.io/badge/Lattes-202020?style=for-the-badge&Color=white)](http://lattes.cnpq.br/7078537540211042)
+ <a href="https://www.linkedin.com/in/daniel-silva-5235a6210/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> [![Lattes](https://img.shields.io/badge/Lattes-202020?style=for-the-badge&Color=white)](<a href = "http://lattes.cnpq.br/7078537540211042" target="_blank" </a>)
 
 ### Commits:
