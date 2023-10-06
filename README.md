@@ -8,6 +8,7 @@
 - 🎓 5th degree in Computer Science - UFAL
 - 🌐 Data Scientist
 - 🎲 Interested in IA and Machine Learning
+- 🌐 In my spare time Backend
   
 __________________________________________________________________________________________________
     
