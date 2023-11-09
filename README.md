@@ -6,8 +6,8 @@
 ### Hello! I'm Daniel Silva🙋‍♂️
 
 - 🎓 5th degree in Computer Science - UFAL
-- 🌐 Web developer
-- 🎲 In my spare time Data Scientist, Interested in IA and Machine Learning
+- 🌐 Data Scientist
+- 🎲 In my spare time Web developer, Interested in IA and Machine Learning
   
   
 __________________________________________________________________________________________________
