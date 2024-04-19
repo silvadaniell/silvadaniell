@@ -7,7 +7,7 @@
 
 - 🎓 7th degree in Computer Science - UFAL
 - 🌐 Data Scientist
-- 🎲 In my spare time Web developer, Interested in IA and Machine Learning
+- 🎲 I am interested in Machine Learning and scientific research
   
   
 __________________________________________________________________________________________________
