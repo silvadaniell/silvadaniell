@@ -7,7 +7,7 @@
 
 - 🎓 7th degree in Computer Science - UFAL
 - 🌐 Data Scientist
-- 🎲 I am interested in Machine Learning and scientific research
+- 🎲 I am interested in Machine Learning and Scientific Research
   
   
 __________________________________________________________________________________________________
