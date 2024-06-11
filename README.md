@@ -13,7 +13,7 @@ Scientific research.
 
 ## [**Data Science Portfolio**](https://github.com/silvadaniell/Data-Science-Potifolio) :game_die:
 
-<img src="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/images/silvadaniell.png">
+<img src="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/images/danielsilva.png">
 
 ## Contact me 🌍
 * [LinkedIn](https://www.linkedin.com/in/silvadaniell/)  
