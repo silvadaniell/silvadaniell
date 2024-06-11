@@ -14,6 +14,6 @@ Scientific research.
 ## [**Data Science Portfolio**](https://github.com/silvadaniell/Data-Science-Potifolio) :game_die:
 
 ## Contact me 🌍
-* [LinkedIn](https://www.linkedin.com/in/daniel-silva-5235a6210/)  
+* [LinkedIn](https://www.linkedin.com/in/silvadaniell/)  
 * [E-mail](danieljoseedasilva@gmail.com)
 
