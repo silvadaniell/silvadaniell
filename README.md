@@ -12,9 +12,8 @@ Scientific research.
 - [CV](https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf)  
 
 ## [**Data Science Portfolio**](https://github.com/silvadaniell/Data-Science-Potifolio) :game_die:
-</br>
-<img  height="300" alt="wxdaniell" src="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/images/silvadaniell.png">
-</br>
+
+<img src="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/images/silvadaniell.png">
 
 ## Contact me 🌍
 * [LinkedIn](https://www.linkedin.com/in/silvadaniell/)  
