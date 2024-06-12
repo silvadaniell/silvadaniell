@@ -6,9 +6,9 @@
 - 🎓 I'm a Computer Science student at the Federal University of Alagoas - UFAL
 - 🌐 I’ve been working on projects that involve data for 2 years. These projects were developed within the university. PIBIC - Scientific Initiation, PIBITI - Technological Initiation and 
 Scientific research.
-- 🎲 I am interested in Machine Learning, Scientific Research, Statistics, Data Science and Mathematics.
+- 🎲 I'm interested in Machine Learning, Scientific Research, Statistics, Data Science and Mathematics.
 - ☘️ Sometimes I venture with back-end developer
-- 📚 I am familiar with SQL, Postgre, Python ( pandas, matplotlib, numpy, seaborn, scikit-Learn). achine Learning (classification, regression, grouping and time series, meta Learning), Git, Github, GitLab (code versioning) and Statistics. My soft Skills communication, organization, teamwork, self-directed learning.
+- 📚 I'm familiar with SQL, Postgre, Python ( pandas, matplotlib, numpy, seaborn, scikit-Learn). achine Learning (classification, regression, grouping and time series, meta Learning), Git, Github, GitLab (code versioning) and Statistics. My soft Skills communication, organization, teamwork, self-directed learning.
 - [CV](https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf)  
 
 ## [**Data Science Portfolio**](https://github.com/silvadaniell/Data-Science-Potifolio) :game_die:
