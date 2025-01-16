@@ -11,7 +11,7 @@ Scientific research.
 - 📚 I'm familiar with SQL, Postgre, Python ( pandas, matplotlib, numpy, seaborn, scikit-Learn). achine Learning (classification, regression, grouping and time series, meta Learning), Git, Github, GitLab (code versioning) and Statistics. My soft Skills communication, organization, teamwork, self-directed learning.
 <!-- - [CV](https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf) -->
 - <a href="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf" target="_blank">CV</a>
-- [LATTES](http://lattes.cnpq.br/7078537540211042)
+- <a href="http://lattes.cnpq.br/7078537540211042" target="_blank">LATTES</a>
 
 ## [**Data Science Portfolio**](https://github.com/silvadaniell/Data-Science-Potifolio) :game_die:
 
