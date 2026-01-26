@@ -12,11 +12,11 @@ Scientific research.
 [CV](https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf) 
 - <a href="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf" target="_blank">CV</a>
 - <a href="http://lattes.cnpq.br/7078537540211042" target="_blank">LATTES</a>
-
+<!--
 ## [**Data Science Portfolio**](https://github.com/silvadaniell/Data-Science-Potifolio) :game_die:
 
 <img src="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/images/danielsilva.png">
-
+-->
 ## Contact me 🌍
 * [LinkedIn](https://www.linkedin.com/in/silvadaniell/)  
 * [E-mail](danieljoseedasilva@gmail.com)
