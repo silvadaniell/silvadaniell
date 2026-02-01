@@ -1,6 +1,7 @@
-</br>
+
+<!-- </br>
 <img align="right" height="180" alt="wxdaniell" src="https://user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif">
-</br>
+</br> -->
 
 ### Hello ! I'm Daniel Silva
 - 🎓 I'm a Computer Science student at the Federal University of Alagoas - UFAL
