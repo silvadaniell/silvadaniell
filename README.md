@@ -9,7 +9,6 @@ Scientific research.
 - 🎲 I'm interested in Machine Learning, Scientific Research, Statistics, Data Science and Mathematics.
 - ☘️ Sometimes I venture with back-end developer
 - 📚 I'm familiar with SQL, Postgre, Python ( pandas, matplotlib, numpy, seaborn, scikit-Learn). achine Learning (classification, regression, grouping and time series, meta Learning), Git, Github, GitLab (code versioning) and Statistics. My soft Skills communication, organization, teamwork, self-directed learning.
-[CV](https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf) 
 - <a href="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf" target="_blank">CV</a>
 - <a href="http://lattes.cnpq.br/7078537540211042" target="_blank">LATTES</a>
 <!--
