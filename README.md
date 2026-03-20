@@ -5,8 +5,7 @@
 
 ### Hello ! I'm Daniel Silva
 - 🎓 I have a Bachelor's degree in Computer Science from the Federal University of Alagoas (UFAL) and I am currently pursuing a Master's degree at the same institution.
-- 🌐 I’ve been working on projects that involve data for 3 years. These projects were developed within the university. PIBIC - Scientific Initiation, PIBITI - Technological Initiation and 
-Scientific research.
+- 🌐 I’ve been working on data-related projects for 3 years, both in academia and in the industry, with a focus on scientific research projects..
 - 🎲 I'm interested in Machine Learning, Scientific Research, Statistics, Data Science and Mathematics.
 - ☘️ Sometimes I venture with back-end developer
 - <a href="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/resume_DanieljdaSilva.pdf" target="_blank">CV</a>
